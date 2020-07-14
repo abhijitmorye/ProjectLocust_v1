@@ -1,0 +1,10 @@
+<config>
+    <other>
+        <protocol>http://</protocol>
+        <url>automationpractice.com</url>
+    </other>
+    <weight>
+        <addtocart>50</addtocart>
+        <register>50</register>
+    </weight>
+</config>
